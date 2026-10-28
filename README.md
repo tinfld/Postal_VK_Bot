@@ -10,7 +10,7 @@
 
 ### Склонируйте проект
 ```bash
-git clone 
+git clone https://github.com/tinfld/Postal_VK_Bot.git
 ```
 
 ### В папке проекта создайте файл окружения *.env* с переменными
@@ -51,7 +51,7 @@ docker compose logs -f
 
 ### Склонируйте проект
 ```bash
-git clone 
+git clone https://github.com/tinfld/Postal_VK_Bot.git
 ```
 
 ### Выполните установку зависимостей 
